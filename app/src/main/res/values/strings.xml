@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="title_activity_task_detail">TaskDetailActivity</string>
+</resources>
